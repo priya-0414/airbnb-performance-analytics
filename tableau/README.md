@@ -9,7 +9,7 @@ The dashboard presents key business insights derived from SQL-transformed Airbnb
 ## 🔗 Live Dashboard
 
 View the interactive dashboard on Tableau Public:  
-👉 View on Tableau Public (https://public.tableau.com/app/profile/priyanka.raju7769/viz/AirbnbPerformanceAnalyticsDashboardNYC/Dashboard1?publish=yes)
+👉 [View on Tableau Public:](https://public.tableau.com/app/profile/priyanka.raju7769/viz/AirbnbPerformanceAnalyticsDashboardNYC/Dashboard1?publish=yes)
 
 ---
 
