@@ -35,7 +35,7 @@ Raw Dataset → SQL Data Cleaning & Aggregation → Analytical CSV Export → Ta
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](https://github.com/priya-0414/Airbnb-Performance-Analysis/blob/main/Tableau/dashboard.png)
+![Dashboard Screenshot](https://github.com/priya-0414/airbnb-performance-analytics/blob/main/tableau/dashboard.png)
 
 ---
 
