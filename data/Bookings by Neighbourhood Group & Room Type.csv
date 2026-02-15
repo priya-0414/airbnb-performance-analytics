@@ -1,0 +1,11 @@
+neighbourhood_group,room_type,total_bookings
+Brooklyn,"Private room",65
+Manhattan,"Entire home/apt",81
+Manhattan,"Private room",55
+Brooklyn,"Entire home/apt",68
+Manhattan,"Shared room",2
+Queens,"Private room",6
+"Staten Island","Private room",5
+Bronx,"Private room",3
+Queens,"Entire home/apt",6
+Bronx,"Entire home/apt",1
