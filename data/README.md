@@ -9,6 +9,19 @@ This folder contains the Airbnb dataset along with processed CSV outputs generat
 - **airbnb_dataset.csv**  
   → Main dataset containing Airbnb listing details.
 
+---
+
+### 📄 Dataset Preview
+
+|id  |name                                            |host_id|host_name  |neighbourhood_group|neighbourhood|latitude|longitude|room_type      |
+|----|------------------------------------------------|-------|-----------|-------------------|-------------|--------|---------|---------------|
+|2539|Clean & quiet apt home by the park              |2787   |John       |Brooklyn           |Kensington   |40.64749|-73.97237|Private room   |
+|2595|Skylit Midtown Castle                           |2845   |Jennifer   |Manhattan          |Midtown      |40.75362|-73.98377|Entire home/apt|
+|3647|THE VILLAGE OF HARLEM....NEW YORK !             |4632   |Elisabeth  |Manhattan          |Harlem       |40.80902|-73.9419 |Private room   |
+|3831|Cozy Entire Floor of Brownstone                 |4869   |LisaRoxanne|Brooklyn           |Clinton Hill |40.68514|-73.95976|Entire home/apt|
+|5022|Entire Apt: Spacious Studio/Loft by central park|7192   |Laura      |Manhattan          |East Harlem  |40.79851|-73.94399|Entire home/apt|
+
+---
 
 ### 📄 CSV Files Exported from SQL Queries
 
