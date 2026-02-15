@@ -25,12 +25,14 @@ Raw Dataset → SQL Data Cleaning & Aggregation → Analytical CSV Export → Ta
 
 ---
 
-## 📊 Key Analysis
-- KPI metrics (Total Hosts, Total Reviews, Avg Reviews per Month)
-- Year-wise review growth trends
-- Top 10 hosts by total reviews
-- Booking patterns by neighbourhood group and room type
-- Average price comparison across neighbourhoods
+## 📊 Key Results
+
+- **Total Hosts:** 236
+- **Total Neighbourhoods:** 59
+- **Total Reviews:** 30,202  
+- **Average Reviews per Month:** 1.07  
+- **Highest Avg Price:** Manhattan  
+- **Most Preferred Room Type:** Entire Home/Apt 
 
 ---
 
